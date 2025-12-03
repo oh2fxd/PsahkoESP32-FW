@@ -2,10 +2,10 @@
 
 This repository contains compiled firmware binaries for the PsahkoESP32 project.
 
-## Latest Version: 1.0.2
+## Latest Version: 1.0.3
 
 ### Download Links
-- **[firmware_v1.0.2.bin](firmware_v1.0.2.bin)** - Version 1.0.2
+- **[firmware_v1.0.3.bin](firmware_v1.0.3.bin)** - Version 1.0.3
 - **[latest.bin](latest.bin)** - Always points to latest version
 
 ### OTA Update Support
@@ -28,6 +28,7 @@ SHA256: a9ba65d9a83873ef41e731dfbdd6f17020c37e356ca830bfbf9eef580f03fbd1
 4. Upload at address 0x10000
 
 ### Available Versions
+- [v1.0.3](firmware_v1.0.3.bin)
 - [v1.0.2](firmware_v1.0.2.bin)
 - [v1.0.1](firmware_v1.0.1.bin)
 - [v1.0.0](firmware_v1.0.0.bin)
@@ -43,7 +44,7 @@ https://raw.githubusercontent.com/oh2fxd/PsahkoESP32-FW/main/version.txt
 
 For specific version:
 ```
-https://raw.githubusercontent.com/oh2fxd/PsahkoESP32-FW/main/firmware_v1.0.2.bin
+https://raw.githubusercontent.com/oh2fxd/PsahkoESP32-FW/main/firmware_v1.0.3.bin
 ```
 
-*Last updated: 2025-12-03 12:37:34*
+*Last updated: 2025-12-03 13:37:25*
