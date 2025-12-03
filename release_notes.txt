@@ -1,0 +1,8 @@
+Version: 1.0.0
+Build date: 2025-12-03 09:13:41
+Board: esp32:esp32:esp32
+Source: https://github.com/oh2fxd/PsahkoESP32 (private)
+
+Checksums:
+MD5: fe60947dee866cf1d3ccb2e4ef528957
+SHA256: 42284471c235686276dfe7b794182600e41a4ec5a4d92fddade9c1d2a3f291a8
